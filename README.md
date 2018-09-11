@@ -1,5 +1,5 @@
 # dialogflow-nodejs-webhook
-There are some method to call the api.ai or dialogflow .  One of the method  that i have done is  to define  a custom template to call the dialogflow with a response from our express server .
+There are different ways  to call the api.ai or dialogflow . But for this demo , we will be using one of the method  to define  a custom webhook to call the dialogflow with a response from our _Express Server_ .
 
 Here's the documentation :
 [🔥 Express](https://expressjs.com)
